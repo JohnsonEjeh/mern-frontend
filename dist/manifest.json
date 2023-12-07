@@ -1,0 +1,18 @@
+{
+  "assets/images/mmLogo.png": {
+    "file": "assets/mmLogo-a08c4c9d.png",
+    "src": "assets/images/mmLogo.png"
+  },
+  "assets/images/unicornbikeImg.jpg": {
+    "file": "assets/unicornbikeImg-0c686699.jpg",
+    "src": "assets/images/unicornbikeImg.jpg"
+  },
+  "src/main.jsx": {
+    "assets": [
+      "assets/mmLogo-a08c4c9d.png"
+    ],
+    "file": "assets/main-61ae7e1c.js",
+    "isEntry": true,
+    "src": "src/main.jsx"
+  }
+}
